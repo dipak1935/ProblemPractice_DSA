@@ -3,6 +3,8 @@ package com.Striver.Arrays;
 public class P3_CheckSorted {
     public static void main(String[] args) {
 
+        // Check if the given array is sorted.
+
         int[] arr={1,2,2,3,3,4,7,5};
 
         System.out.println(checkSorted(arr));

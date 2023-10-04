@@ -5,6 +5,8 @@ import java.util.Arrays;
 public class P2_SecondLargestElement {
     public static void main(String[] args) {
 
+        // Return the second largest element of the given array.
+
         int[] arr={1,2,4,7,7,5};
 
         System.out.println(secondLargestElementBruteForce(arr));
